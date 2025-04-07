@@ -29,7 +29,7 @@
 
 ### Dashboard - Admin
 
-[![API docs](img/dashboard.png)](https://github.com/fastapi/full-stack-fastapi-template)
+![image](https://github.com/user-attachments/assets/2abd29f8-5e38-4618-808a-0a1689099e87)[![API docs](img/dashboard.png)](https://github.com/fastapi/full-stack-fastapi-template) 
 
 ### Dashboard - Create User
 
