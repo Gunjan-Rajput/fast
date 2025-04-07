@@ -25,6 +25,8 @@
 - 🏭 CI (continuous integration) and CD (continuous deployment) based on GitHub Actions.
 
 ### Dashboard Login
+![image](https://github.com/user-attachments/assets/ce575382-4ed0-4690-9409-4ef8657ff589)
+
 
 [![API docs](img/login.png)](https://github.com/fastapi/full-stack-fastapi-template)
 
